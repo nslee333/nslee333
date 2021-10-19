@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nathan Lee
 - 👀 I’m interested in ...Blockchain Technology, 
-- 🌱 I’m currently learning ...HTML, CSS, JavaScript 
+- 🌱 I’m currently learning ...HTML, CSS, JavaScript, Solidity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Email me @ nslee333@gmail.com
 
