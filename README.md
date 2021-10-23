@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nathan Lee
-- 👀 I’m interested in ...Blockchain Technology, 
+- 👀 I’m interested in ...Blockchain Technology, Ethereum, Web3.0, Smart Contracts.
 - 🌱 I’m currently learning ... JavaScript and Solidity.
 - 💞️ I’m looking to collaborate on ... Blockchain, NFTs, Web3.0, 
 - 📫 How to reach me ... Email me @ nslee333@gmail.com
