@@ -1,10 +1,16 @@
-- 👋 Hi, I’m Nathan Lee
-- 👀 I’m interested in ...Blockchain Technology, Ethereum, Web3.0, Smart Contracts.
-- 🌱 I’m currently learning ... JavaScript and Solidity.
-- 💞️ I’m looking to collaborate on ... Blockchain, NFTs, Web3.0, 
-- 📫 How to reach me ... Email me @ nslee333@gmail.com
+Hello There!
+  I’m Nathan Lee and I'm working on learning Blockchain Development with LearnWeb3DAO.
 
-<!---
-nslee333/nslee333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  I’m facinated in ...Blockchain Technology, Ethereum, Web3.0, Smart Contracts. 
+- 🌱 I’m currently learning ... JavaScript and Solidity with the LearnWeb3DAO.
+
+
+📫 Reach out to me on Email at nslee333@gmail.com
+
+
+
+
+<div class="image">
+  <img src="https://user-images.githubusercontent.com/83928534/158027313-35a09cf7-3193-40bb-951f-7da0ca18ba9f.jpg" height="500" width="auto" >
+</div>
+<!-- ![PFP](https://user-images.githubusercontent.com/83928534/158027313-35a09cf7-3193-40bb-951f-7da0ca18ba9f.jpg) -->
