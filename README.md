@@ -5,6 +5,8 @@ Hello There!
 - 🌱 I’m currently learning ... JavaScript and Solidity with the LearnWeb3DAO.
 
 
+[![My Skills](https://skillicons.dev/icons?i=js,solidity,graphql,nextjs,react,html,css,github,)](https://skillicons.dev)
+
 📫 Reach out to me on Email at nslee333@gmail.com
 
 
@@ -15,4 +17,4 @@ Hello There!
 </div>
 <!-- ![PFP](https://user-images.githubusercontent.com/83928534/158027313-35a09cf7-3193-40bb-951f-7da0ca18ba9f.jpg) -->
 
-[![My Skills](https://skillicons.dev/icons?i=js,solidity,graphql,nextjs,react,html,css,github,)](https://skillicons.dev)
+
