@@ -12,7 +12,7 @@ Hello There!
 [![Nathans's GitHub stats](https://github-readme-stats.vercel.app/api?username=nslee333)](https://github.com/nslee333/github-readme-stats)
 
 <div class="image">
-  <img src="https://user-images.githubusercontent.com/83928534/158027313-35a09cf7-3193-40bb-951f-7da0ca18ba9f.jpg" height="250" width="auto" >
+  <img src="https://user-images.githubusercontent.com/83928534/158027313-35a09cf7-3193-40bb-951f-7da0ca18ba9f.jpg" height="375" width="auto" >
 </div>
 <!-- ![PFP](https://user-images.githubusercontent.com/83928534/158027313-35a09cf7-3193-40bb-951f-7da0ca18ba9f.jpg) -->
 
