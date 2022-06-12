@@ -3,7 +3,7 @@ Hello There!
 
   I’m working on learning Blockchain development with the Ethereum Ecosystem.
 - 🌱 I’m currently learning ... JavaScript and Solidity with the LearnWeb3DAO.
-- 📫 Reach out to me on Email at nslee333@gmail.com
+
 
 
 
