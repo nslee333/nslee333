@@ -8,7 +8,6 @@ Hello There!
 
   Check out my LW3 Repo - that's where the majority of Blockchain projects are located :)
   
-</br>
 
 
 
