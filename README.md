@@ -3,15 +3,19 @@ Hello There!
 
   I’m facinated in ...Blockchain Technology, Ethereum, Web3.0, Smart Contracts. 
 - 🌱 I’m currently learning ... JavaScript and Solidity with the LearnWeb3DAO.
+- 📫 Reach out to me on Email at nslee333@gmail.com
+
+
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,solidity,graphql,nextjs,react,html,css,github,)](https://skillicons.dev)
+
+
 
 ![Nathans's GitHub stats](https://github-readme-stats.vercel.app/api?username=nslee333&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nslee333&show_icons=true&theme=dark)](https://github.com/nslee333/github-readme-stats)
 
 
-📫 Reach out to me on Email at nslee333@gmail.com
 
 
 <div class="image">
