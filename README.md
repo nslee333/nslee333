@@ -9,8 +9,7 @@ Hello There!
 
 📫 Reach out to me on Email at nslee333@gmail.com
 
-
-https://github-readme-stats.vercel.app/api?username={nslee333}
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<nslee333>&theme=<THEME_NAME>" />
 
 <div class="image">
   <img src="https://user-images.githubusercontent.com/83928534/158027313-35a09cf7-3193-40bb-951f-7da0ca18ba9f.jpg" height="500" width="auto" >
