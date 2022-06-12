@@ -7,6 +7,9 @@ Hello There!
 
 [![My Skills](https://skillicons.dev/icons?i=js,solidity,graphql,nextjs,react,html,css,github,)](https://skillicons.dev)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nslee333)](https://github.com/nslee333/github-readme-stats)
+
+
 📫 Reach out to me on Email at nslee333@gmail.com
 
 ![Nathans's GitHub stats](https://github-readme-stats.vercel.app/api?username=nslee333&show_icons=true&theme=synthwave)
