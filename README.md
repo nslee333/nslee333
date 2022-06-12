@@ -4,9 +4,11 @@ Hello There!
   🔗 I’m working on learning Blockchain development with the Ethereum Ecosystem. </br>
   🌱 I’m currently learning JavaScript and Solidity with the LearnWeb3DAO.
   
-</br>
+
 
   Check out my LW3 Repo - that's where the majority of Blockchain projects are located :)
+  
+  
   
 
 
