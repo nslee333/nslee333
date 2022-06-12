@@ -1,8 +1,12 @@
 Hello There!
   I’m Nathan Lee and I'm working on learning Blockchain Development with LearnWeb3DAO.
 </br>
-  🔗 I’m working on learning Blockchain development with the Ethereum Ecosystem. </br>
+  🔗 I’m working on learning Blockchain development with the Ethereum Ecosystem.
   🌱 I’m currently learning JavaScript and Solidity with the LearnWeb3DAO.
+  💡 I'm working on learning not just how to develop decentralized applications, but how to think of systems as a whole, and integrating that into my problem solving,       and using that mindset to developing solutions to large problems.
+  📖 When working on projects, I regularly document and explain the system structure and syntax that I don't know to myself to deepen my knowledge and understanding.
+  
+  
   
 
 
