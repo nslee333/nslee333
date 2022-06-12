@@ -19,7 +19,7 @@ Hello There!
 
 
 <div class="image">
-  <img src="https://user-images.githubusercontent.com/83928534/158027313-35a09cf7-3193-40bb-951f-7da0ca18ba9f.jpg" height="375" width="auto" >
+  <img src="https://user-images.githubusercontent.com/83928534/158027313-35a09cf7-3193-40bb-951f-7da0ca18ba9f.jpg" height="375" width="auto" align="center" >
 </div>
 <!-- ![PFP](https://user-images.githubusercontent.com/83928534/158027313-35a09cf7-3193-40bb-951f-7da0ca18ba9f.jpg) -->
 
