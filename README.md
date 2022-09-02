@@ -5,7 +5,7 @@ Hello There!
 
   🔗 I’m working on learning Blockchain development with the Ethereum Ecosystem.
   
-  🌱 I’m currently learning JavaScript and Solidity with the LearnWeb3DAO.
+  🌱 I’m currently learning TypesScript and Solidity with the LearnWeb3DAO.
   
   📖 When working on projects, I regularly document and explain the system structure and syntax that I don't know to myself to deepen my knowledge and understanding.
   
@@ -17,7 +17,7 @@ Hello There!
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,solidity,graphql,nextjs,react,html,css,github,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,solidity,graphql,nextjs,react,html,css,github,)](https://skillicons.dev)
 
 
 ![Nathans's GitHub stats](https://github-readme-stats.vercel.app/api?username=nslee333&show_icons=true&theme=dark)
