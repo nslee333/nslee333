@@ -17,7 +17,7 @@ Hello There!
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,solidity,graphql,nextjs,react,git,nodejs,github,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,solidity,graphql,git,nodejs,github,)](https://skillicons.dev)
 
 
 ![Nathans's GitHub stats](https://github-readme-stats.vercel.app/api?username=nslee333&show_icons=true&theme=dark)
