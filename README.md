@@ -5,7 +5,7 @@ Hello There!
 
   🔗 I’m working on learning Blockchain development with the Ethereum Ecosystem.
   
-  🌱 I’m currently learning TypesScript and Solidity with the LearnWeb3DAO.
+  🌱 I’m currently learning Rust and TypesScript.
   
   📖 When working on projects, I regularly document and explain the system structure and syntax that I don't know to myself to deepen my knowledge and understanding.
   
