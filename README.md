@@ -10,7 +10,7 @@ Hello There!
   
  Check out my Projects repo, that's were my main projects are located. :)
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,express,mongodb,rust,postgres,bash,solidity,linux,react,git,nodejs,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,express,mongodb,react,rust,postgres,bash,solidity,linux,git,nodejs,)](https://skillicons.dev)
 
 
 ![Nathans's GitHub stats](https://github-readme-stats.vercel.app/api?username=nslee333&show_icons=true&theme=dark)
