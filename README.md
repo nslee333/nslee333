@@ -2,11 +2,7 @@ Hello There!
 
   I’m Nathan Lee and I'm working on learning fullstack web development.
   
-  🌱 I’m currently learning MongoDB and working with the MERN stack.
-  
-  📖 When working on projects, I regularly document and explain the system structure and syntax that I don't know to myself to deepen my knowledge and understanding.
-  
-  💡 I'm working on learning not just how to build web applications, but how to think of systems as a whole, and integrating that thinking into my problem solving, and using that mindset to build solutions to large problems.
+  🌱 I’m currently learning APIs and working with the MERN stack.
   
  Check out my Projects repo, that's were my main projects are located. :)
 
