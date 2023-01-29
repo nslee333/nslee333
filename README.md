@@ -5,6 +5,8 @@ Hello There!
   🌱 I’m currently learning APIs and working with the MERN stack.
   
  Check out my Projects repo, that's were my main projects are located. :)
+ 
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,express,mongodb,react,rust,postgres,bash,solidity,linux,git,nodejs,)](https://skillicons.dev)
 
