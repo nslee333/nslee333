@@ -6,7 +6,7 @@ Hello There!
   
  Check out my Projects repo, that's were my main projects are located. :)
  
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=${nslee333}.${nslee333}&left_color=green&right_color=red)
+ 
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,express,mongodb,react,rust,postgres,bash,solidity,linux,git,nodejs,)](https://skillicons.dev)
 
