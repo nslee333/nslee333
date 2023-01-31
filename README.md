@@ -1,6 +1,6 @@
 Hello There!
 
-  I’m Nathan Lee and I'm working on learning fullstack web development.
+  I’m Nathan and I'm working on learning fullstack web development.
   
   🌱 I’m currently learning APIs and working with the MERN stack.
   
