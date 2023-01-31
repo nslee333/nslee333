@@ -11,7 +11,7 @@ Hello There!
 [![My Skills](https://skillicons.dev/icons?i=ts,js,express,mongodb,react,rust,postgres,bash,solidity,linux,git,nodejs,)](https://skillicons.dev)
 
 
-![Nathans's GitHub stats](https://github-readme-stats.vercel.app/api?username=nslee333&show_icons=true&theme=dark)
+![Nathans's GitHub stats](https://github-readme-stats.vercel.app/api?username=nslee333&show_icons=true&theme=chartreuse-dark)
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nslee333&show_icons=true&theme=dark)](https://github.com/nslee333/github-readme-stats) -->
