@@ -1,12 +1,10 @@
-Hello There!
+![Alt Text](https://media.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif)
 
   I’m Nathan and I'm working on learning fullstack web development.
   
   🐲 I’m currently working on the BendJS website.
   
  Check out my Projects repo, that's were my main projects are located. :)
- 
- 
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,express,mongodb,react,rust,postgres,bash,solidity,linux,git,nodejs,)](https://skillicons.dev)
 
