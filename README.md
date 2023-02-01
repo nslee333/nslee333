@@ -1,4 +1,5 @@
-![Alt Text](https://media.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif)
+![Alt Text](https://media.tenor.com/izMON9ssKbAAAAAd/star-wars-obi-wan.gif)
+
 
   I’m Nathan and I'm working on learning fullstack web development.
   
