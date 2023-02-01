@@ -2,7 +2,7 @@ Hello There!
 
   I’m Nathan and I'm working on learning fullstack web development.
   
-  🌱 I’m currently learning APIs and working with the MERN stack.
+  🐲 I’m currently working on the BendJS website.
   
  Check out my Projects repo, that's were my main projects are located. :)
  
