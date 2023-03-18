@@ -15,21 +15,6 @@ Theoretical experience includes:
 - The importance of clean code and best practices to fight complexity in code - [The Art of Clean Code by Christian Mayer](https://www.amazon.com/Art-Clean-Code-Practices-Complexity/dp/1718502184/ref=sr_1_1?keywords=the+art+of+clean+code&s=books&sr=1-1)
 - Cloud computing with AWS - In progress.
 
-Languages:
-- Typescript
-- Javascript
-- Rust - Mostly theoretical knowledge
-- Bash
-- Python - currently learning
-
-Other skills:
-- Git
-- Postman
-- Linux environment with WSL Ubuntu.
-- GitHub
-- Googling
-- Mocha.js Test framework
-- Chai.js Assertion library
 
 In my pinned repositories below, on the left side I have my personal projects, ordered by latest at the top, on the right side are certification related.
 
