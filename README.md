@@ -1,7 +1,7 @@
 Hey, I'm Nathan. 
 
 I'm a self-taught and disciplined software engineering student
-with strong desire to attain <br>skills and gain experience building performant, reusable software.
+with strong desire to attain skills and gain experience building performant, reusable software.
 
 Most of my hands-on experience is with MERN stack applications written in Typescript.<br> 
 [Weather-App](https://github.com/nslee333/Weather-App) + [Task-App](https://github.com/nslee333/Task-App)
