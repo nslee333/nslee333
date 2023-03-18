@@ -3,12 +3,6 @@ Hey, I'm Nathan.
 I'm a self-taught and disciplined software engineering student
 with strong desire to attain skills and gain experience building performant, reusable software.
 
-Most of my hands-on experience is with MERN stack applications written in Typescript.<br> 
-[Weather-App](https://github.com/nslee333/Weather-App) + [Task-App](https://github.com/nslee333/Task-App)
-
-I'm currently working with BendJS to help redesign their website from a react based website to using Next.js using a Jamstack (Javascript, API, Markup) architecture with Sanity's headless CMS. <br>
-[BendJS](https://github.com/BendJS/simple-website/tree/nextjs)
-
 In my pinned repositories below, on the left side I have my personal projects, ordered by latest at the top, on the right side are certification related.
 
 Certifications:<br>
