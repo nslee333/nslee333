@@ -16,26 +16,20 @@ Theoretical experience includes:
 - Cloud computing with AWS - In progress.
 
 Languages:
-- Typescript.
-- Javascript.
-- Rust - Mostly theoretical knowledge.
-- Bash.
-- Python - currently learning.
-
-Javascript ecosystem:
-- React
-- Next.js
-- Express
-- Axios Http.
-- Mocha.js Test framework.
-- Chai.js Assertion library.
+- Typescript
+- Javascript
+- Rust - Mostly theoretical knowledge
+- Bash
+- Python - currently learning
 
 Other skills:
 - Git
 - Postman
 - Linux environment with WSL Ubuntu.
-- GitHub.
-- Googling.
+- GitHub
+- Googling
+- Mocha.js Test framework
+- Chai.js Assertion library
 
 In my pinned repositories below, on the left side I have my personal projects, ordered by latest at the top, on the right side are certification related.
 
