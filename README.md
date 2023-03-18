@@ -1,17 +1,14 @@
 Hey, I'm Nathan. 
 
-Most of my hands-on experience is with Typescript with MERN stack applications. 
+Most of my hands-on experience is with MERN stack applications written in Typescript.<br> 
+[Weather-App](https://github.com/nslee333/Weather-App) + [Task-App](https://github.com/nslee333/Task-App)
 
-[Weather-App](https://github.com/nslee333/Weather-App) +
-[Task-App](https://github.com/nslee333/Task-App)
-
-I'm currently working with BendJS to help redesign their website from a react based website to using Next.js using a Jamstack (Javascript, API, Markup) architecture with Sanity's headless CMS. 
-
+I'm currently working with BendJS to help redesign their website from a react based website to using Next.js using a Jamstack (Javascript, API, Markup) architecture with Sanity's headless CMS. <br>
 [BendJS](https://github.com/BendJS/simple-website/tree/nextjs)
 
 In my pinned repositories below, on the left side I have my personal projects, ordered by latest at the top, on the right side are certification related.
 
-Certifications: 
+Certifications:<br>
 - MongoDB
   - [MongoDB Node.js Developer Path](https://learn.mongodb.com/c/pxiuuIfSS1-3V-KKy9wzRg)
 - FreeCodeCamp:
