@@ -4,7 +4,7 @@
 
 ---
 
-[Resume](https://github.com/nslee333/Experience/blob/master/resume.md)
+[Summary](https://github.com/nslee333/Experience/blob/master/summary.md)
 
 [Certifications](https://github.com/nslee333/Experience/blob/master/certifications.md)
 
