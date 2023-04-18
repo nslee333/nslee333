@@ -10,7 +10,7 @@
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,py,express,mongodb,postgres,react,next,bash,solidity,linux,git,nodejs,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,py,bash,express,mongodb,postgres,react,next,solidity,linux,git,nodejs,)](https://skillicons.dev)
 
 ![Nathans's GitHub stats](https://github-readme-stats.vercel.app/api?username=nslee333&show_icons=true&theme=chartreuse-dark)
 
