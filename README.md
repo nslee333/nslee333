@@ -8,9 +8,8 @@
 
 [Certifications](https://github.com/nslee333/Experience/blob/master/certifications.md)
 
-[Learning Log 2022](https://github.com/nslee333/Experience/blob/master/learning-log-2022.csv)
+[Projects](https://github.com/nslee333/Experience/blob/master/projects.md)
 
-[Learning Log 2023](https://github.com/nslee333/Experience/blob/master/learning-log-2023.csv)
 
 ---
 
