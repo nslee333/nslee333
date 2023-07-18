@@ -19,8 +19,6 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nslee333&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
-
-
 ---
 
 *In my pinned repositories below, on the left side I have my personal projects, ordered by latest at the top, on the right side are certification related.*
