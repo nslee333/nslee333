@@ -15,7 +15,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=go,ts,js,py,bash,react,express,mongodb,postgres,next,linux,git,nodejs,tailwind,jest)](https://skillicons.dev)
 
-![Nathans's GitHub stats](https://github-readme-stats.vercel.app/api?username=nslee333&show_icons=true&theme=chartreuse-dark)
+<!-- ![Nathans's GitHub stats](https://github-readme-stats.vercel.app/api?username=nslee333&show_icons=true&theme=chartreuse-dark) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nslee333&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
