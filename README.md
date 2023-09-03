@@ -10,7 +10,6 @@
 
 [Projects](https://github.com/nslee333/Experience/blob/master/projects.md)
 
-
 ---
 
 [![My Skills](https://skillicons.dev/icons?i=go,ts,js,py,bash,react,express,mongodb,postgres,next,linux,git,nodejs,tailwind,jest)](https://skillicons.dev)
