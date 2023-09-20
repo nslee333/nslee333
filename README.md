@@ -2,6 +2,7 @@
 
 ### I'm a self-taught and disciplined software engineering student with strong desire to attain skills and gain experience building performant, reusable software.
 
+
 ---
 
 [Summary](https://github.com/nslee333/Experience/blob/master/summary.md)
