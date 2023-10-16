@@ -1,6 +1,6 @@
- ## **Hey, I'm Nathan.**
-
-### I'm a self-taught web developer with strong desire to attain skills and gain experience building performant, reusable software.
+ ## Hey, I'm Nathan
+  
+ I'm a self-taught web developer with strong desire to attain skills and gain experience building performant, reusable software.
 
 
 ---
