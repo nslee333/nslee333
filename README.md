@@ -1,10 +1,12 @@
  ## Hey, I'm Nathan
   
- I'm a self-taught web developer with strong desire to attain skills and gain experience building performant, reusable software.
+ I'm a self-taught Full-stack web developer based in the Central Oregon area.
 
- Connect with me on [LinkedIn](https://www.linkedin.com/in/nathan-lee-258b02132/)
+ My technical interests varies from UX/UI Design and Full-stack web development to DevOps, Linux, Infrastructure and Security.
 
- Checkout my [site](https://nathanlee.io/)
+ If you're a programmer or an entrepreneur I'd love to hear what you're working on, feel free to shoot me an email or connect with me on [LinkedIn](https://www.linkedin.com/in/nathan-lee-258b02132/).
+
+ Checkout my personal [site](https://nathanlee.io/)
 
 ---
 
