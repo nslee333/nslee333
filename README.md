@@ -2,6 +2,9 @@
   
  I'm a self-taught web developer with strong desire to attain skills and gain experience building performant, reusable software.
 
+ Connect with me on [LinkedIn](https://www.linkedin.com/in/nathan-lee-258b02132/)
+
+ Checkout my [site](https://nathanlee.io/)
 
 ---
 
