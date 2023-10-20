@@ -20,8 +20,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=go,ts,js,py,bash,react,express,postgres,next,linux,git,nodejs,tailwind,jest,vim)](https://skillicons.dev)
 
-
-
 ---
 
 *In my pinned repositories below, on the left side I have my personal projects, ordered by most elaborate at the top, on the right side are DSA/Certification related.*
