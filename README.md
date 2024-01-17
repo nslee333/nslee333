@@ -1,6 +1,6 @@
 # Hey, I'm Nathan
   
- I'm a self-taught Full-stack web developer based in the Central Oregon area.
+ I'm a full-stack web developer based in the Central Oregon area.
 
  My technical interests varies from UX/UI Design and Full-stack web development to DevOps, Linux, Infrastructure and Security.
 
