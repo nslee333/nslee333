@@ -8,10 +8,11 @@
  
 ---
 
+## Projects / Sites
 
-[BendJS Site Revamp](https://bendjs.nathanlee.io/)
+[BendJS](https://bendjs.nathanlee.io/)
 
-[Personal Site](https://nathanlee.io/)
+[Nathanlee.io](https://nathanlee.io/)
 
 [Smaller Projects](https://github.com/nslee333/Experience/blob/master/projects.md)
 
