@@ -5,16 +5,15 @@
  My technical interests varies from UX/UI Design and Full-stack web development to DevOps, Linux, Infrastructure and Security.
 
  If you're a programmer or an entrepreneur I'd love to hear what you're working on, feel free to shoot me an email or connect with me on [LinkedIn](https://www.linkedin.com/in/nathan-lee-258b02132/).
-
- Checkout my personal [site](https://nathanlee.io/)
-
+ 
 ---
 
-[Summary](https://github.com/nslee333/Experience/blob/master/summary.md)
 
-[Certifications](https://github.com/nslee333/Experience/blob/master/certifications.md)
+[BendJS Site Revamp](https://bendjs.nathanlee.io/)
 
-[Projects](https://github.com/nslee333/Experience/blob/master/projects.md)
+[Personal Site](https://nathanlee.io/)
+
+[Smaller Projects](https://github.com/nslee333/Experience/blob/master/projects.md)
 
 ---
 
