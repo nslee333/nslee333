@@ -2,7 +2,7 @@
   
  I'm a full-stack web developer based in the Central Oregon area.
 
- My technical interests varies from UX/UI Design and Full-stack web development to DevOps, Linux, Infrastructure and Security.
+ I do mostly fullstack development, and I also play around with Linux a little.
 
  If you're a programmer or an entrepreneur I'd love to hear what you're working on, feel free to shoot me an email or connect with me on [LinkedIn](https://www.linkedin.com/in/nathan-lee-258b02132/).
  
