@@ -20,4 +20,3 @@
 
 [![My Skills](https://skillicons.dev/icons?i=go,ts,js,py,bash,react,express,postgres,next,linux,git,nodejs,tailwind,jest,vim)](https://skillicons.dev)
 
----
