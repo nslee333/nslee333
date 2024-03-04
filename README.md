@@ -8,15 +8,5 @@
  
 ---
 
-## Projects / Sites
-
-[BendJS](https://bendjs.nathanlee.io/)
-
-[Nathanlee.io](https://nathanlee.io/)
-
-[Smaller Projects](https://github.com/nslee333/Experience/blob/master/projects.md)
-
----
-
 [![My Skills](https://skillicons.dev/icons?i=go,ts,js,py,bash,react,express,postgres,next,linux,git,nodejs,tailwind,jest,vim)](https://skillicons.dev)
 
