@@ -4,7 +4,8 @@
 
  I do mostly fullstack development, play around with Linux and help organize [Bend DevOps](https://benddevops.org/)
 
- If you're a software engineer or an entrepreneur I'd love to hear what you're working on, feel free to shoot me an email or connect with me on [LinkedIn](https://www.linkedin.com/in/nathan-lee-258b02132/).
+ If you're a software engineer or an entrepreneur I'd love to hear what you're working on, feel free to shoot me an email or connect with me on [LinkedIn](https://www.linkedin.com/in/nslee333/).
+ 
  
 ---
 
