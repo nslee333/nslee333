@@ -2,7 +2,7 @@
   
  I'm a full-stack software engineer and community organizer based in Central Oregon.
 
- I do mostly fullstack development, play around with Linux and help organize [Deschutes Tech Guild](https://www.meetup.com/deschutes-tech-guild/)
+ I do mostly fullstack development, play around with Linux, I've also founded and organize [Deschutes Tech Guild](https://www.meetup.com/deschutes-tech-guild/)
 
  If you're a software engineer or an entrepreneur I'd love to hear what you're working on, feel free to shoot me an email or connect with me on [LinkedIn](https://www.linkedin.com/in/nslee333/).
 
