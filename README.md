@@ -10,5 +10,5 @@
  
 ---
 
-![My Skills](https://skillicons.dev/icons?i=go,rust,aws,docker,postgres,linux,git,https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=rust,go,aws,docker,postgres,linux,git,https://skillicons.dev)
 
